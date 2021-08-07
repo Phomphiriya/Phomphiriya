@@ -2,6 +2,12 @@
 
 🌱 I’m currently learning C/C++ , Python , Java , HTML/CSS
 
+<br>
+<h3>My Stats</h3>
+<br>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Phomphiriya&layout=compact&langs_count=8&theme=dracula">
+</p>
 <!--
 **Phomphiriya/Phomphiriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
