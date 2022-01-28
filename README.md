@@ -3,7 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;&center=true&width=500&height=50"></a>
 </p>
 🌱 I’m currently learning C/C++ , Python , Java , HTML/CSS
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <br>
 <h3>My Stats</h3>
 <br>
