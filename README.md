@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;&center=true&width=500&height=50"></a>
 </p>
-🌱 I’m currently study in 3rd year as a computer engineer student at KMITL interested in Data engineer and learning to improve my skill to suit this occupation.
+🌱 I’m currently study in 3rd year as a computer engineer student at KMITL interested in Data engineer and learning to improve my skills to suit this occupation.
 <br>
 <h3>My Stats</h3>
 <br>
